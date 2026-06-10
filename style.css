@@ -67,7 +67,7 @@ nav{
 }
 .hero {
     height: 100vh;
-    background-image: url('image/pr1.jpg'); 
+    background-image: url('image/pr1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -75,8 +75,9 @@ nav{
     justify-content: center;
     align-items: center;
     text-align: center;
-    color:white;
+    color: white;
 }
+
 
 .hero h1{
     font-size:55px;
